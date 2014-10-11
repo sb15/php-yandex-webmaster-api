@@ -1,0 +1,19 @@
+{
+    "name": "sb15/php-yandex-webmaster-api",
+    "type": "library",
+    "description": "yandex webmaster api",
+    "keywords": ["api"],
+    "homepage": "https://github.com/sb15/php-yandex-webmaster-api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Perov",
+            "email": "alex@sb6.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sb\\": "src"
+        }
+    }
+}
