@@ -15,5 +15,9 @@
         "psr-4": {
             "Sb\\": "src"
         }
+    },
+    "require" : {
+        "sb15/php-console-browser": "*",
+        "sb15/xml-string-to-php-array": "*"
     }
 }
