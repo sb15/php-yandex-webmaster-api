@@ -17,7 +17,6 @@
         }
     },
     "require" : {
-        "sb15/php-console-browser": "*",
-        "sb15/xml-string-to-php-array": "*"
+        "sb15/php-console-browser": "*"
     }
 }
